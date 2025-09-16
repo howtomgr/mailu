@@ -1,0 +1,66 @@
+{
+  "category": "mail-stacks",
+  "created_date": "2025-09-15T22:48:58.116246",
+  "default_ports": [
+    80,
+    443,
+    2048
+  ],
+  "dependencies": [
+    "docker",
+    "docker-compose"
+  ],
+  "description": "Mailu is a free and open-source Mail Server Stack. Simple yet full-featured mail server",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/mail-stacks/mailu",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/mail-stacks/mailu",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.116265",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "mailu",
+  "repository_url": "https://github.com/howtomgr/mailu",
+  "spec_version": "2.0",
+  "subcategory": "mail-stacks",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "mail-stacks",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection",
+    "communication"
+  ],
+  "title": "Mailu Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/mail-stacks/mailu"
+}
